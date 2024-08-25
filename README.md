@@ -11,7 +11,9 @@ The Hospital Management System is a Java-based application designed to streamlin
  
 ## Languages and Technologies Used
  Java
+ 
  Mysql
+ 
  JDBC
 ## Platform
  Vscode
